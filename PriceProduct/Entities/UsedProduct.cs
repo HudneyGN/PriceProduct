@@ -10,8 +10,12 @@
             ManufactureDate = manufactureDate;
         }
         public override string PriceTag() {
-            return "(Used ) $"
-                + base.PriceTag();
+            return Name
+                + " (Used) $ "
+                + Price
+                + $" Manufacture date (DD/MM/YYYY: {ManufactureDate}) ";
+
+
         }
     }
 }
