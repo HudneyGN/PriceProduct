@@ -12,7 +12,7 @@ namespace PriceProduct {
             int n = int.Parse(Console.ReadLine());
 
             for (int i = 1; i <= n; i++) {
-                Console.WriteLine($"Product {1} data: ");
+                Console.WriteLine($"Product {i} data: ");
                 Console.Write("Common, used or imported (c/u/i)? ");
                 string resp = Console.ReadLine();
                 Console.Write("Name: ");
