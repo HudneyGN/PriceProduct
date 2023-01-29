@@ -1,0 +1,15 @@
+G:\Udemy\Curso C#\Seção 10\PriceProduct\PriceProduct\bin\Debug\net7.0\PriceProduct.exe
+G:\Udemy\Curso C#\Seção 10\PriceProduct\PriceProduct\bin\Debug\net7.0\PriceProduct.deps.json
+G:\Udemy\Curso C#\Seção 10\PriceProduct\PriceProduct\bin\Debug\net7.0\PriceProduct.runtimeconfig.json
+G:\Udemy\Curso C#\Seção 10\PriceProduct\PriceProduct\bin\Debug\net7.0\PriceProduct.dll
+G:\Udemy\Curso C#\Seção 10\PriceProduct\PriceProduct\bin\Debug\net7.0\PriceProduct.pdb
+G:\Udemy\Curso C#\Seção 10\PriceProduct\PriceProduct\obj\Debug\net7.0\PriceProduct.csproj.AssemblyReference.cache
+G:\Udemy\Curso C#\Seção 10\PriceProduct\PriceProduct\obj\Debug\net7.0\PriceProduct.GeneratedMSBuildEditorConfig.editorconfig
+G:\Udemy\Curso C#\Seção 10\PriceProduct\PriceProduct\obj\Debug\net7.0\PriceProduct.AssemblyInfoInputs.cache
+G:\Udemy\Curso C#\Seção 10\PriceProduct\PriceProduct\obj\Debug\net7.0\PriceProduct.AssemblyInfo.cs
+G:\Udemy\Curso C#\Seção 10\PriceProduct\PriceProduct\obj\Debug\net7.0\PriceProduct.csproj.CoreCompileInputs.cache
+G:\Udemy\Curso C#\Seção 10\PriceProduct\PriceProduct\obj\Debug\net7.0\PriceProduct.dll
+G:\Udemy\Curso C#\Seção 10\PriceProduct\PriceProduct\obj\Debug\net7.0\refint\PriceProduct.dll
+G:\Udemy\Curso C#\Seção 10\PriceProduct\PriceProduct\obj\Debug\net7.0\PriceProduct.pdb
+G:\Udemy\Curso C#\Seção 10\PriceProduct\PriceProduct\obj\Debug\net7.0\PriceProduct.genruntimeconfig.cache
+G:\Udemy\Curso C#\Seção 10\PriceProduct\PriceProduct\obj\Debug\net7.0\ref\PriceProduct.dll
